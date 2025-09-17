@@ -1,0 +1,7 @@
+cv2
+os
+pil
+subprocess
+threading
+time
+tkinter
